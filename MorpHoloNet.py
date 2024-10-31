@@ -15,7 +15,7 @@ from scipy.stats import multivariate_normal
 file_name = 'Z:\\holograms\\image_file_name.tif'
 image_array = Image.open(file_name)
 width, height = image_array.size
-image_array = np.array(image_array) / 255.0
+image_array = np.array(image_array) / 255.0 # Scale the intensity map between 0-1
 image_array = image_array.reshape(width, height)
 image_tensor = tf.convert_to_tensor(image_array)
 U_z0 = tf.cast(image_tensor, tf.float32)
