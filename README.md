@@ -7,7 +7,7 @@ MorpHoloNet was trained using Python 3.6.7, Anaconda3-4.5.11, PyCharm (JetBrains
 ## Contents
 In this repository, we provide source codes for MorpHoloNet, typical holograms, and the corresponding trained models.
 
-1. `/MorpHoloNet.py`: Main code for training 3D morphology of biological cells using physics-driven and coordinate-based neural networks.
+1. `/MorpHoloNet.py`: Main code for training 3D morphology of biological cells using physics-driven and coordinate-based neural networks. Expected runtime for training MorpHoloNet is within an hour.
 2. `/positional_encoding.py`: Fourier feature projection for positional encoding, referring to [this work](https://github.com/titu1994/tf_fourier_features/blob/master/tf_fourier_features/fourier_features.py).
 3. `/Results.py`: Code for obtaining object arrays and intensity maps reconstructed at different depths.
 4. `/requirements.txt`: Python packages required to run the codes.
