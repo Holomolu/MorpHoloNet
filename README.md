@@ -1,5 +1,5 @@
 # Single-shot reconstruction of three-dimensional morphology of biological cells in digital holographic microscopy using a physics-driven neural network
-Jihwan Kim, Youngdo Kim, Hyo Seung Lee, Eunseok Seo & Sang Joon Lee. Single-shot reconstruction of three-dimensional morphology of biological cells in digital holographic microscopy using a physics-driven neural network. Nature Communications 16, 4840 (2025).
+Jihwan Kim, Youngdo Kim, Hyo Seung Lee, Eunseok Seo & Sang Joon Lee. Single-shot reconstruction of three-dimensional morphology of biological cells in digital holographic microscopy using a physics-driven neural network. _Nature Communications_ 16, 4840 (2025).
 
 ## Development environment
 MorpHoloNet was trained using Python 3.6.7, Anaconda3-4.5.11, PyCharm (JetBrains, Czech Republic), TensorFlow-gpu 2.4.1, NVIDIA CUDA toolkit 11.0, and cuDNN 8.2.1. A desktop computer used in this study is composed of Nvidia GeForce RTX 3090 GPU, AMD Ryzen 5950X CPU, and 128 GB RAM. Python packages required to reproduce the results are listed in `requirements.txt`. Typical time required to install this development environment is about 30 minutes.
@@ -18,7 +18,7 @@ In this repository, we provide source codes for MorpHoloNet, typical holograms, 
 ## Citation
 We welcome improvements to the concept of MorpHoloNet and its broad application in various research fields. Please cite our [publication](https://www.nature.com/articles/s41467-025-60200-x) when using this code:
 
-Jihwan Kim, Youngdo Kim, Hyo Seung Lee, Eunseok Seo & Sang Joon Lee. Single-shot reconstruction of three-dimensional morphology of biological cells in digital holographic microscopy using a physics-driven neural network. Nature Communications 16, 4840 (2025).
+Jihwan Kim, Youngdo Kim, Hyo Seung Lee, Eunseok Seo & Sang Joon Lee. Single-shot reconstruction of three-dimensional morphology of biological cells in digital holographic microscopy using a physics-driven neural network. _Nature Communications_ 16, 4840 (2025).
 
 ## Contact
 Jihwan Kim: jhkim15@postech.ac.kr   
