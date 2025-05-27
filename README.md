@@ -16,7 +16,7 @@ In this repository, we provide source codes for MorpHoloNet, typical holograms, 
 7. `/trained_model`: Trained model of each hologram. Copy `save_weights` folder and paste it into the same directory as `Results.py` to check the trained object arrays and intensity maps of each hologram.
 
 ## Citation
-We welcome improvements to the concept of MorpHoloNet and its broad application in various research fields. Please cite our [publication] (https://www.nature.com/articles/s41467-025-60200-x) when using this code:
+We welcome improvements to the concept of MorpHoloNet and its broad application in various research fields. Please cite our [publication](https://www.nature.com/articles/s41467-025-60200-x) when using this code:
 
 Jihwan Kim, Youngdo Kim, Hyo Seung Lee, Eunseok Seo & Sang Joon Lee. Single-shot reconstruction of three-dimensional morphology of biological cells in digital holographic microscopy using a physics-driven neural network. Nature Communications 16, 4840 (2025).
 
